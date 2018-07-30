@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/luyat.iml" filepath="$PROJECT_DIR$/luyat.iml" />
       <module fileurl="file://$PROJECT_DIR$/ly-ams/ly-ams.iml" filepath="$PROJECT_DIR$/ly-ams/ly-ams.iml" />
       <module fileurl="file://$PROJECT_DIR$/ly-tls/ly-tls.iml" filepath="$PROJECT_DIR$/ly-tls/ly-tls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ly-web/ly-web.iml" filepath="$PROJECT_DIR$/ly-web/ly-web.iml" />
     </modules>
   </component>
 </project>

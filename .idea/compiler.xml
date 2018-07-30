@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ly-ams" />
         <module name="ly-tls" />
+        <module name="ly-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="luyat" target="1.8" />
       <module name="ly-ams" target="1.8" />
       <module name="ly-tls" target="1.8" />
+      <module name="ly-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -10,6 +10,7 @@
     <modules>
         <module>ly-tls</module>
         <module>ly-ams</module>
+        <module>ly-web</module>
     </modules>
     <packaging>pom</packaging>
 
